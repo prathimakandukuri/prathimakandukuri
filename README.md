@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prathimakandukuri
+- 👋 Hi, I’m prathimakandukuri
 - 👀 I’m interested in Machine Learning and deep learning
 - 🌱 I’m currently learning various techniques in machine Learning to get model efficiently
 - 📫 How to reach me kandukuriprathimasaran128@gmail.com
